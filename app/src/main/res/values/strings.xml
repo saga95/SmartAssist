@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SmartAssist</string>
+
+    <string name="kws_caption">Go ahead, \n I am listening</string>
+    <string name="menu_caption">
+        Some things you can ask me : \n
+        1. kaalagunaya kohomada? \n
+        2. appoinment ekak daanna? \n
+        3. sinduwak daanna? \n
+        4. call ekak ganna \n
+        5. message ekak yawanna? \n
+        6. Eg : "Malabe" yanna kochchara wela yai da?
+        6. nama mokakda? \n
+        7. wayasa keeyada? \n
+    </string>
+</resources>
